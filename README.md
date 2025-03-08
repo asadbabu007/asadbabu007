@@ -26,15 +26,13 @@
 💻 **Cyber Forensics**: Autopsy, FTK, Mobiledit, Volatility  
 🔍 **Penetration Testing**: Burp Suite, Metasploit, Nmap, Wireshark  
 🔐 **Cryptography & Steganography**: Steghide, DeepSound, Hashcat  
-📡 **Network Security**: Snort, Suricata, IDS/IPS, Firewalls  
+📡 **Network Security**: Snort, IDS/IPS, Firewalls  
 🛠️ **Other Skills**: Linux Forensics, Social Engineering, OSINT  
 
 ---
 
 ### 💬 Let's Connect!  
 💌 Email: [azadbabuazad@gmail.com](mailto:azadbabuazad@gmail.com)  
-🌐 LinkedIn: [Your LinkedIn Profile](#)  
-🐦 Twitter: [Your Twitter Handle](#)  
-📚 Blog/Website: [Your Blog or Portfolio](#)  
+🌐 LinkedIn: [ASADBABU](https://www.linkedin.com/in/asad-babu-b80552154/)(#)  
 
 🚀 **Committed to securing the digital space, one step at a time!**  
