@@ -1,13 +1,40 @@
-### Hi there 👋
-<h1 align="center">Hello, I'm ASADBABU</h1>
-<h3 align="center">A Cyber Security Analyst Cyber Forensic Investigator</h3>
+### 👋 Hi there, I'm Asadbabu  
+<h1 align="center">🚀 Cyber Security Specialist | Ethical Hacker | Digital Forensic Investigator 🔍</h1>
 
+<h3 align="center">Passionate about securing the digital world, uncovering cyber threats, and educating the next generation of security professionals.</h3>
 
-- 💬 Ask me about **Ethical Hacking**
-- I am currently learning 
+---
 
+### 👨‍💻 About Me  
+🔹 **Experienced Cyber Security Specialist** with a deep understanding of penetration testing, digital forensics, and threat analysis.  
+🔹 **Ethical Hacker** skilled in identifying vulnerabilities and strengthening cyber defenses.  
+🔹 **Digital Forensic Investigator** with expertise in memory forensics, storage analysis, and incident response.  
+🔹 **Trainer & Mentor**, empowering individuals and organizations through cybersecurity awareness and hands-on training.  
 
-- 📫 How to reach me **azadbabuazad@gmail.com**
+---
 
+### 💡 What I Do  
+✅ **Penetration Testing** - Web, Network, Wireless, and Cloud Security Assessments  
+✅ **Digital Forensics** - RAM & Storage Forensic Analysis, USB Deview, DeepSound & Steghide Analysis  
+✅ **Malware Analysis & Reverse Engineering**  
+✅ **Incident Response & Threat Hunting**  
+✅ **Security Awareness Training & Cybersecurity Workshops**  
 
+---
 
+### 🛠️ Tools & Technologies  
+💻 **Cyber Forensics**: Autopsy, FTK, Mobiledit, Volatility  
+🔍 **Penetration Testing**: Burp Suite, Metasploit, Nmap, Wireshark  
+🔐 **Cryptography & Steganography**: Steghide, DeepSound, Hashcat  
+📡 **Network Security**: Snort, Suricata, IDS/IPS, Firewalls  
+🛠️ **Other Skills**: Linux Forensics, Social Engineering, OSINT  
+
+---
+
+### 💬 Let's Connect!  
+💌 Email: [azadbabuazad@gmail.com](mailto:azadbabuazad@gmail.com)  
+🌐 LinkedIn: [Your LinkedIn Profile](#)  
+🐦 Twitter: [Your Twitter Handle](#)  
+📚 Blog/Website: [Your Blog or Portfolio](#)  
+
+🚀 **Committed to securing the digital space, one step at a time!**  
